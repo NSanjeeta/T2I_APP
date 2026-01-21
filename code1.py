@@ -27,7 +27,7 @@ client = InferenceClient(
 
 prompt = st.text_area(
     "Enter your prompt",
-    placeholder="Example: Two confident young women standing together, professional photography",
+    placeholder="Enter Here",
     height=140
 )
 
