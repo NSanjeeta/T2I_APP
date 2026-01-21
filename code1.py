@@ -3,7 +3,7 @@ from huggingface_hub import InferenceClient
 
 st.set_page_config(page_title="T2I App")
 
-st.title("🖼️ Text to Image Generator")
+st.title("VSK")
 st.write("Generate images using Stable Diffusion XL")
 
 # Hugging Face token from Streamlit Secrets
